@@ -1,0 +1,11 @@
+body {
+    background-image: url(/Imagenes/300\ x\ 600\ grey.png);
+}
+ul {
+    background-color: white;
+    color: black;
+}
+.imagin {
+    width: 100px;
+    height: 100px;
+}
