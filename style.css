@@ -1,11 +1,44 @@
 body {
-    background-image: url(/Imagenes/300\ x\ 600\ grey.png);
+    background-image: url(/Imagenes/olas.jpg);
+    background-size: cover;
 }
-ul {
-    background-color: white;
-    color: black;
+ul {    
+    color: white;
 }
-.imagin {
-    width: 100px;
-    height: 100px;
+h3 {
+    color: white;
+}
+p {
+    color: white;
+}
+#A {
+    border-radius: 20px;
+    border: 3px solid black;
+    transform: rotate(20deg);
+    border-left: 50%;
+}
+#E {
+    border-radius: 20px;
+    border: 3px solid black;
+    transform: rotate(20deg);
+}
+#I {
+    border-radius: 20px;
+    border: 3px solid black;
+    transform: rotate(20deg);
+}
+#N {
+    border-radius: 20px;
+    border: 3px solid black;
+    transform: rotate(20deg);
+}
+#T {
+    border-radius: 20px;
+    border: 3px solid black;
+    transform: rotate(20deg);
+}
+#M {
+    border-radius: 20px;
+    border: 3px solid black;
+    transform: rotate(20deg);
 }
