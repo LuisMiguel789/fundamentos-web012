@@ -7,38 +7,62 @@ ul {
 }
 h3 {
     color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 40%;
+}
+#l {
+    padding-left: 0.8%;
 }
 p {
     color: white;
 }
+#one {
+    #IN{
+        padding-left: 5%;
+    }
+    #NO{
+        padding-left: 15%;
+    }
+    #SO{
+        padding-left: 25%;
+    }
+    #SE{
+        padding-left: 35%;
+    }
+    #CO{
+        padding-left: 45%;
+    }
+}
 #A {
     border-radius: 20px;
-    border: 3px solid black;
-    transform: rotate(20deg);
-    border-left: 50%;
+    transform: rotate(8deg);
+    padding-left: 2%;
 }
 #E {
     border-radius: 20px;
-    border: 3px solid black;
-    transform: rotate(20deg);
+    transform: rotate(8deg);
+    padding-left: 2%;
 }
 #I {
     border-radius: 20px;
-    border: 3px solid black;
-    transform: rotate(20deg);
+    transform: rotate(8deg);
+    padding-left: 2%;
 }
 #N {
     border-radius: 20px;
-    border: 3px solid black;
-    transform: rotate(20deg);
+    transform: rotate(8deg);
+    padding-right: 2%;
 }
 #T {
     border-radius: 20px;
-    border: 3px solid black;
-    transform: rotate(20deg);
+    transform: rotate(8deg);
+    padding-right: 2%;
 }
 #M {
     border-radius: 20px;
-    border: 3px solid black;
-    transform: rotate(20deg);
+    transform: rotate(8deg);
+    padding-right: 15%;
+}
+#ENVIAR {
+    border-radius: 25%;
 }
